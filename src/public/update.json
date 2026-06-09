@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.0.0",
+  "versionCode": 1,
+  "apkUrl": "https://github.com/yourusername/linkly/releases/latest/download/linkly-latest.apk",
+  "releaseNotes": [
+    "Initial release",
+    "Offline QR-based profile sharing",
+    "Encrypted local storage"
+  ]
+}
